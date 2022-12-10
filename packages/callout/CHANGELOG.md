@@ -1,5 +1,15 @@
 # @leafygreen-ui/callout
 
+## 9.0.2
+
+### Patch Changes
+
+- 787bb5b9: Introduces Callout subdirectory, in an effort to internally organize how we structure our packages
+- Updated dependencies [95bd93ef]
+- Updated dependencies [a0d6638c]
+  - @leafygreen-ui/icon@11.12.3
+  - @leafygreen-ui/typography@15.2.0
+
 ## 9.0.1
 
 ### Patch Changes

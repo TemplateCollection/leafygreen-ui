@@ -1,5 +1,11 @@
 # @leafygreen-ui/icon
 
+## 11.12.3
+
+### Patch Changes
+
+- 95bd93ef: Adds Drag, Read, Resize, and Write icons
+
 ## 11.12.2
 
 ### Patch Changes
