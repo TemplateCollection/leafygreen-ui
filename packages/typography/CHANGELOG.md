@@ -1,5 +1,16 @@
 # @leafygreen-ui/typography
 
+## 15.2.0
+
+### Minor Changes
+
+- a0d6638c: Allows consuming applications to override baseFontSize as inherited from LeafyGreen Provider
+
+### Patch Changes
+
+- Updated dependencies [95bd93ef]
+  - @leafygreen-ui/icon@11.12.3
+
 ## 15.1.1
 
 ### Patch Changes
